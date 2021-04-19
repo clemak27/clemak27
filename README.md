@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there
+
+Why are you here?
+
+![confusion](https://user-images.githubusercontent.com/26412249/115301311-4c5d1380-a161-11eb-9668-ee0986397b95.jpg)
+
+but seriously, this readme is wip
 
 <!--
 **clemak27/clemak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
