@@ -1,22 +1,9 @@
-### Hello there
+# Hello there
 
-Why are you here?
-
-![confusion](https://user-images.githubusercontent.com/26412249/115301311-4c5d1380-a161-11eb-9668-ee0986397b95.jpg)
-
-but seriously, this readme is wip
-
-<!--
-**clemak27/clemak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My name is Clemens.
+- I got my BSc in Computer Science @ [UAS Technikum Wien](https://www.technikum-wien.at/en/).
+- I work as a backend developer
+- I mainly use Java, Go and nodejs. Sometimes also Kotlin, Python, random shell-scripts and Rust, and I'm not afraid to try something new :)
+- I have a [gitea](https://gitea.io/en-us/) server where I keep all my private repos, the code I feel confident enough to make public is here on GitHub.
+- I use Linux ([btw](https://archlinux.org/)) and do all of my editing in neovim and intelliJ.
+- I mostly listen to prog rock and metal. [Here's a good example of music I like :)](https://www.youtube.com/watch?v=WbWhpfXisZw)
