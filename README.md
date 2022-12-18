@@ -12,4 +12,4 @@
     repos, the code I feel confident/useful enough to share is here on GitHub.
   - use Linux on all my PCs and do all of my editing in neovim and IntelliJ.
   - mostly listen to progressive rock and other slightly weird ~~shit~~ music.
-    [As an example, here's a song from my favorite artist](https://www.youtube.com/watch?v=qtgv89oLCOU)
+    [As an example, here's one of my favourite songs](https://www.youtube.com/watch?v=W3lsqUqGTzM)
