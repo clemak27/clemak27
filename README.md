@@ -2,12 +2,11 @@
 
 - My name is Clemens.
 - I ...
-  - ...got my B.Sc. in Computer Science @
-    [UAS Technikum Wien](https://www.technikum-wien.at/en/).
+  - ...got my B.Sc. in Computer Science
+    @[UAS Technikum Wien](https://www.technikum-wien.at/en/).
   - ...currently work as a backend-focused software engineer.
-  - ...mainly use Java, Go and sometime Java-/Typescript (in NodeJS) for programming,
-    ...but I'm not afraid to try something new.
-  - ...am also interested in DevOps and have a small homelab running Fedora CoreOS.
+  - ...mainly use Java, Go and Rust for programming
+  - ...am also interested in DevOps and have a small homelab running NixOS.
   - ...like to automate all the boring stuff. :)
   - ...have a [forgejo](https://forgejo.org/) instance where I keep all my
     private repos, the code I feel confident/useful enough to share is here on
