@@ -1,15 +1,6 @@
-# Hello there
+<!-- markdownlint-disable -->
 
-- My name is Clemens.
-- I ...
-  - ...got my B.Sc. in Computer Science
-    @[UAS Technikum Wien](https://www.technikum-wien.at/en/).
-  - ...currently work as a backend-focused software engineer.
-  - ...mainly use Java, Go and Rust for programming
-  - ...am also interested in DevOps and have a small homelab running NixOS.
-  - ...like to automate all the boring stuff. :)
-  - ...have a [forgejo](https://forgejo.org/) instance where I keep all my
-    private repos, the code I feel confident/useful enough to share is here on
-    GitHub.
-  - ...use Linux on all my PCs and do all of my editing in neovim.
-  - ...listen to music like [this](https://www.youtube.com/watch?v=GPfcL5K7VZ8)
+I hear its amazing when the famous purple stuffed worm in flap-jaw space with
+the tuning fork does a raw blink on Hari Kiri Rock. I need scissors! 61!
+
+<!-- fuck ai slop -->
